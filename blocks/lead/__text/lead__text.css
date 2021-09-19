@@ -1,0 +1,24 @@
+.lead__text {
+  margin-top: 32px;
+  margin-bottom: 64px;
+  font-size: 30px;
+  line-height: 1.16;
+  max-width: 640px;
+}
+
+
+@media screen and (max-width: 1279px) and (min-width: 768px) {
+  .lead__text {
+    margin-bottom: 56px;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .lead__text {
+    margin: 16px 16px 40px;
+    max-width: 288px;
+    font-size: 16px;
+    line-height: 1.2;
+  }
+}

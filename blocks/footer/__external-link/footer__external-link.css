@@ -1,0 +1,19 @@
+.footer__external-link {
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 1.22;
+  margin-right: 18px;
+}
+
+
+.footer__external-link:hover {
+  text-decoration: underline;
+}
+
+  
+@media screen and (max-width: 767px) {
+  .footer__external-link {
+    font-size: 24px;
+    line-height: 1;
+  }
+}
