@@ -5,11 +5,6 @@
   margin-right: 18px;
 }
 
-
-.footer__external-link:hover {
-  text-decoration: underline;
-}
-
   
 @media screen and (max-width: 767px) {
   .footer__external-link {
