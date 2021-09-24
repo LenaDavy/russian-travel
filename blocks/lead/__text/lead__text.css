@@ -1,6 +1,7 @@
 .lead__text {
   margin-top: 32px;
   margin-bottom: 64px;
+  font-family: "Inter-Regular", 'Arial', 'Helvetica', sans-serif;
   font-size: 30px;
   line-height: 1.16;
   max-width: 640px;
