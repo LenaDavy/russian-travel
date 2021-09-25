@@ -1,13 +1,12 @@
 .header__lang-link {
-  font-family: "Inter-Regular", 'Arial', 'Helvetica', sans-serif;
   font-size: 24px;
-  line-height: 1.14;
+  line-height: 1.17;
 }
 
 
 @media screen and (max-width: 424px) {
   .header__lang-link {
     font-size: 18px;
-    line-height: 1.1;
+    line-height: 1.11;
   }
 }

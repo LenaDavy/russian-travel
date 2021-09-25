@@ -1,0 +1,11 @@
+.article__origin-link {
+  font-size: 18px;
+  line-height: 1.22;
+}
+
+
+@media screen and (max-width: 767px) {
+  .article__origin-link {
+    margin: 12px 16px 0;
+  }
+}

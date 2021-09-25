@@ -1,7 +1,7 @@
 .lead__main-title {
   margin: 0;
   width: min-content;
-  font-family: "Inter-Black", 'Arial', 'Helvetica', sans-serif;
+  font-weight: 900;
   font-size: 96px;
   line-height: 1.04;
   font-weight: bold;

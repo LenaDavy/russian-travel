@@ -1,24 +1,24 @@
-.places {
+.articles {
   margin: 0 148px;
 }
 
 
 @media screen and (max-width: 1279px) and (min-width: 1024px) {
-  .places {
+  .articles {
     margin: 0 48px;
   }
 }
       
     
 @media screen and (max-width: 1023px) and (min-width: 768px) {
-  .places {
+  .articles {
     margin: 0 24px;
   }
 }
     
     
 @media screen and (max-width: 767px) {
-  .places {
+  .articles {
     margin: 0;
   }
 }
